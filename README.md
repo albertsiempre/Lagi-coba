@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kendo UI Mobile PhoneGap Build Bootstrap
 ---
 
@@ -12,3 +13,9 @@ To preview the application in your browser, open the developer tools and in the 
 Please visit [http://www.kendoui.com/download](http://www.kendoui.com/download) to get a trial version of Kendo UI Mobile. This bootsrap application uses CDN versions which are not meant for production use and will violate the terms of use if used in a production application.
 
 _Based on the [PhoneGap Start](https://github.com/phonegap/phonegap-start) app by @alunny and modified by yours truly._
+=======
+Lagi-coba
+=========
+
+coba dulu
+>>>>>>> 2d5af602591036e2f038329ae70c74a77ee8d6d2
